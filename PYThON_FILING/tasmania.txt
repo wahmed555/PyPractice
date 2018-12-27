@@ -1,0 +1,4 @@
+Animal, Endangered
+loin, extinct
+kangro,common
+Deer, extinct
